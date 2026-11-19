@@ -6,7 +6,7 @@ const config = {
 
     version: "1.0.0",
     prefix: ".",
-    language: "fr",
+    language: "it",
     mode: "public"
   },
   paths: {
