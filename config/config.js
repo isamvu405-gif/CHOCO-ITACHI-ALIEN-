@@ -2,7 +2,8 @@ const path = require("path");
 
 const config = {
   bot: {
-    name: "CHOCO-ITACHI-ALIEN",
+    name: "༺࿑𝔇𝔦𝔢𝔤𝔬 ࿑༻",
+
     version: "1.0.0",
     prefix: ".",
     language: "fr",
